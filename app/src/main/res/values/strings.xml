@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recipe Keeper</string>
+    <string name="author"></string>
+    <string name="button_Recipe">Add Recipe Name</string>
+    <string name="button_Ingredients">Add Ingredients</string>
+    <string name="button_Instructions">Add Instructions</string>
+    <string name="button_Save">Save Recipe</string>
+    <string name="button_Clear">Clear All</string>
+    <string name="text_areaRecipeName">Enter Recipe Name</string>
+    <string name="text_areaIngredients">Enter Ingredients</string>
+    <string name="text_areaInstructions">Enter Instructions</string>
+    <string name="text_areaRecipe"></string>
+</resources>
