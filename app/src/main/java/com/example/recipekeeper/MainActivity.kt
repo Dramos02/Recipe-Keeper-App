@@ -59,6 +59,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
         binding.txtTitle.text="Recipe Keeper By Dominic O.Ramos"
-
+        //Copyrights © https://github.com/Dramos02
     }
 }
